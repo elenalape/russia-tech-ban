@@ -1,6 +1,6 @@
 # Russia Tech Ban
 
-Curated list of tech companies who have ceased operations in Russia in response to the Russia's occupation of Ukraine. Contributors are more than welcome to add their own companies, or 
+Curated list of tech companies who have ceased operations in Russia in response to the Russia's occupation of Ukraine. Contributors are invited to update this list.
 
 Always double fact-check your sources of information, including this one. Skip to [Contributing](#contributing) to add a company to the list.
 
