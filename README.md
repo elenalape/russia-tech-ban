@@ -38,7 +38,7 @@ Always double fact-check your sources of information, including this one. Skip t
 
 - **Mastercard** – [unsupported](https://www.forbes.com/sites/roberthart/2022/03/01/visa-mastercard-suspend-services-to-russian-banks-hit-by-sanctions/?sh=67aa193777d5).
 
-- **Microsoft** - actively fighting Russian disinformation campaigns.
+- **Microsoft** - [actively fighting Russian disinformation campaigns in Russia](https://blogs.microsoft.com/on-the-issues/2022/02/28/ukraine-russia-digital-war-cyberattacks/).
 
 - **Netflix** - [changes to subscriptions](https://www.forbes.com/sites/marisadellatto/2022/03/02/google-dell-ford-and-apple-heres-the-growing-list-of-companies-cutting-ties-with-russia-over-invasion/?sh=5ad8414c53d1).
 
