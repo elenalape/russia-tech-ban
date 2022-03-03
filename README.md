@@ -6,6 +6,8 @@ Always double fact-check your sources of information, including this one. Skip t
 
 ## Tech companies that have suspended or limited their operations in Russia
 
+- **American Express** - [halted relationships with impacted bank partners](https://about.americanexpress.com/all-news/news-details/2022/American-Express-Response-to-the-Ukraine-Crisis/).
+
 - **Apple Pay** - [unsupported](https://www.imore.com/apple-confirms-apple-pay-no-longer-supported-russian-bank).
 
 - **Apple** - [suspended sales](https://www.cnet.com/news/apple-stops-selling-products-in-russia-limits-app-store-apple-pay-and-maps/).
@@ -41,6 +43,8 @@ Always double fact-check your sources of information, including this one. Skip t
 - **Microsoft** - [actively fighting Russian disinformation campaigns in Russia](https://blogs.microsoft.com/on-the-issues/2022/02/28/ukraine-russia-digital-war-cyberattacks/).
 
 - **Netflix** - [changes to subscriptions](https://www.forbes.com/sites/marisadellatto/2022/03/02/google-dell-ford-and-apple-heres-the-growing-list-of-companies-cutting-ties-with-russia-over-invasion/?sh=5ad8414c53d1).
+
+- **Paypal** – [partial suspension: stopped accepting new users in Russia](https://www.reuters.com/technology/paypal-stops-accepting-new-users-russia-2022-03-02/).
 
 - **Paysera** – [ceased transfers to Russia](https://www.electronicpaymentsinternational.com/news/paysera-wise-russia-ukraine/).
 
