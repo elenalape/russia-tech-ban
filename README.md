@@ -46,6 +46,8 @@ Always double fact-check your sources of information, including this one. Skip t
 
 - **Snapchat** – [advertising unavailable](https://www.forbes.com/sites/marisadellatto/2022/03/02/google-dell-ford-and-apple-heres-the-growing-list-of-companies-cutting-ties-with-russia-over-invasion/?sh=5ad8414c53d1).
 
+- **Spotify** - [closed local offices & limits state-sponsored media content](https://www.reuters.com/technology/spotify-closes-its-office-russia-response-attack-ukraine-2022-03-02/).
+
 - **Twitter** - [limited state-sponsored media content](https://www.forbes.com/sites/marisadellatto/2022/03/02/google-dell-ford-and-apple-heres-the-growing-list-of-companies-cutting-ties-with-russia-over-invasion/?sh=5ad8414c53d1).
 
 - **TikTok** – [limited Russian state-sponsored media content](https://www.washingtonpost.com/technology/2022/02/28/facebook-ukraine-russian-disinformation/).
