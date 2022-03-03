@@ -20,6 +20,8 @@ Always double fact-check your sources of information, including this one. Skip t
 
 - **Boeing** – [halted supply](https://www.theguardian.com/business/2022/mar/02/airbus-and-boeing-to-halt-supply-of-aircraft-parts-to-russian-airlines).
 
+- **bp** – [divesting from Russian energy holdings and exiting from related businesses](https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-to-exit-rosneft-shareholding.html).
+
 - **Dell** – [halted sales](https://www.forbes.com/sites/marisadellatto/2022/03/02/google-dell-ford-and-apple-heres-the-growing-list-of-companies-cutting-ties-with-russia-over-invasion/?sh=5ad8414c53d1).
 
 - **Ericsson** – [suspended deliveries to Russia](https://www.reuters.com/article/ukraine-crisis-ericsson/ericsson-suspends-deliveries-to-russia-internal-memo-idUSZ8N2TF003).
@@ -49,6 +51,8 @@ Always double fact-check your sources of information, including this one. Skip t
 - **Paysera** – [ceased transfers to Russia](https://www.electronicpaymentsinternational.com/news/paysera-wise-russia-ukraine/).
 
 - **Snapchat** – [advertising unavailable](https://www.forbes.com/sites/marisadellatto/2022/03/02/google-dell-ford-and-apple-heres-the-growing-list-of-companies-cutting-ties-with-russia-over-invasion/?sh=5ad8414c53d1).
+
+- **Shell** - [halting all Russian operations](https://www.reuters.com/business/energy/shell-exit-russia-operations-after-ukraine-invasion-2022-02-28/)
 
 - **Spotify** - [closed local offices & limits state-sponsored media content](https://www.reuters.com/technology/spotify-closes-its-office-russia-response-attack-ukraine-2022-03-02/).
 
