@@ -6,11 +6,15 @@ Always double fact-check your sources of information, including this one. Skip t
 
 ## Tech companies that have suspended or limited their operations in Russia
 
+- **Activision Blizzard** - halted sales](https://www.theverge.com/2022/3/5/22963195/activision-blizzard-halts-new-game-sales-russia-ukraine-invasion).
+
 - **American Express** - [halted relationships with impacted bank partners](https://about.americanexpress.com/all-news/news-details/2022/American-Express-Response-to-the-Ukraine-Crisis/).
 
 - **Apple Pay** - [unsupported](https://www.imore.com/apple-confirms-apple-pay-no-longer-supported-russian-bank).
 
 - **Apple** - [suspended sales](https://www.cnet.com/news/apple-stops-selling-products-in-russia-limits-app-store-apple-pay-and-maps/).
+
+- **AirBnB** - [suspended operations](https://www.cnbc.com/2022/03/04/airbnb-is-suspending-all-operations-in-russia-and-belarus-.html).
 
 - **Airbus** - [halted supply](https://www.theguardian.com/business/2022/mar/02/airbus-and-boeing-to-halt-supply-of-aircraft-parts-to-russian-airlines).
 
@@ -23,6 +27,8 @@ Always double fact-check your sources of information, including this one. Skip t
 - **bp** – [divesting from Russian energy holdings and exiting from related businesses](https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-to-exit-rosneft-shareholding.html).
 
 - **Dell** – [halted sales](https://www.forbes.com/sites/marisadellatto/2022/03/02/google-dell-ford-and-apple-heres-the-growing-list-of-companies-cutting-ties-with-russia-over-invasion/?sh=5ad8414c53d1).
+
+- **EA** - [halted sales](https://www.theverge.com/2022/3/4/22961673/ea-halting-sales-games-content-currency-russia-belarus) 
 
 - **Ericsson** – [suspended deliveries to Russia](https://www.reuters.com/article/ukraine-crisis-ericsson/ericsson-suspends-deliveries-to-russia-internal-memo-idUSZ8N2TF003).
 
