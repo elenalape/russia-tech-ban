@@ -6,7 +6,7 @@ Always double fact-check your sources of information, including this one. Skip t
 
 ## Tech companies that have suspended or limited their operations in Russia
 
-- **Activision Blizzard** - halted sales](https://www.theverge.com/2022/3/5/22963195/activision-blizzard-halts-new-game-sales-russia-ukraine-invasion).
+- **Activision Blizzard** - [halted sales](https://www.theverge.com/2022/3/5/22963195/activision-blizzard-halts-new-game-sales-russia-ukraine-invasion).
 
 - **American Express** - [halted relationships with impacted bank partners](https://about.americanexpress.com/all-news/news-details/2022/American-Express-Response-to-the-Ukraine-Crisis/).
 
