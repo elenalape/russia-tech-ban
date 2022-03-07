@@ -28,7 +28,7 @@ Always double fact-check your sources of information, including this one. Skip t
 
 - **Dell** – [halted sales](https://www.forbes.com/sites/marisadellatto/2022/03/02/google-dell-ford-and-apple-heres-the-growing-list-of-companies-cutting-ties-with-russia-over-invasion/?sh=5ad8414c53d1).
 
-- **EA** - [halted sales](https://www.theverge.com/2022/3/4/22961673/ea-halting-sales-games-content-currency-russia-belarus) 
+- **EA** - [halted sales](https://www.theverge.com/2022/3/4/22961673/ea-halting-sales-games-content-currency-russia-belarus)
 
 - **Ericsson** – [suspended deliveries to Russia](https://www.reuters.com/article/ukraine-crisis-ericsson/ericsson-suspends-deliveries-to-russia-internal-memo-idUSZ8N2TF003).
 
@@ -51,6 +51,8 @@ Always double fact-check your sources of information, including this one. Skip t
 - **Microsoft** - [actively fighting Russian disinformation campaigns in Russia](https://blogs.microsoft.com/on-the-issues/2022/02/28/ukraine-russia-digital-war-cyberattacks/).
 
 - **Netflix** - [changes to subscriptions](https://www.forbes.com/sites/marisadellatto/2022/03/02/google-dell-ford-and-apple-heres-the-growing-list-of-companies-cutting-ties-with-russia-over-invasion/?sh=5ad8414c53d1).
+
+-- **Nvidia** - ["suspended its Russian-facing business activities"](https://www.tomshardware.com/news/nvidia-is-the-latest-tech-titan-to-suspend-its-russia-business)
 
 - **Paypal** – [partial suspension: stopped accepting new users in Russia](https://www.reuters.com/technology/paypal-stops-accepting-new-users-russia-2022-03-02/).
 
