@@ -42,6 +42,8 @@ Always double fact-check your sources of information, including this one. Skip t
 
 - **HP** – [banned shipments to RU](https://www.crn.com/news/hp-hits-russia-with-u-s-backed-shipment-ban).
 
+- **IBM** - [suspended operations](https://www.crn.com/news/cloud/ibm-suspends-business-in-russia-over-ukraine-invasion)
+
 - **Instagram** – [actively blocking propaganda](https://www.theguardian.com/technology/2022/feb/28/facebook-takes-down-disinformation-network-targeting-ukraine-meta-instagram).
 
 - **Intel** – [halted deliveries](https://appleinsider.com/articles/22/02/28/tsmc-intel-amd-halt-shipments-to-russia-as-part-of-us-sanctions).
